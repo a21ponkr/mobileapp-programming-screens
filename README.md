@@ -21,5 +21,5 @@ And in Second Activity the data will be displayed as:
         tvPrime_number.setText(prime_number);
 ```
 
-![](Screenshot_20220502-074058.jpg)
-![](Screenshot_20220502-074103.jpg)
+![](Screenshot_20220502-074058.png)
+![](Screenshot_20220502-074103.png)
