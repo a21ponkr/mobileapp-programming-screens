@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     public void nextActivity(View v)
     {
         Intent intent = new Intent(this, SecondActivity.class);
-        intent.putExtra("first prime number", "2");
+        intent.putExtra("first_prime_number", "2");
         startActivity(intent);
     }
 }
