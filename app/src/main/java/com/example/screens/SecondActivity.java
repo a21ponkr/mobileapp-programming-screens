@@ -15,9 +15,9 @@ public class SecondActivity extends AppCompatActivity {
 
 
         Intent intent = getIntent();
-        String username = intent.getStringExtra("first_prime_number");
-        TextView tvUsername = findViewById(R.id.txt_first_prime_number);
-        tvUsername.setText(username);
+        String prime_number = intent.getStringExtra("first_prime_number");
+        TextView tvPrime_number = findViewById(R.id.txt_first_prime_number);
+        tvPrime_number.setText(prime_number);
     }
 
 
